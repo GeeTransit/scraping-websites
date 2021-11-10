@@ -1,6 +1,6 @@
 # Scraping Websites
 
-Get the average time of submissions in all language for a DMOJ problem
+Get the average time of submissions in all languages for a DMOJ problem
 
 ## Setup
 
